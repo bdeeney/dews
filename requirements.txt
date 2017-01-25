@@ -1,3 +1,4 @@
+ghoauth
 jaraco.apt
 jaraco.classes
 jaraco.clipboard
