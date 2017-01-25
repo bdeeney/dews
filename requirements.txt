@@ -1,3 +1,4 @@
+sisaptools
 siskin
 ghopenid
 ghoauth
