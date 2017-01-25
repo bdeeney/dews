@@ -1,3 +1,7 @@
+ZProgressbar
+pyabc
+django-extensions==1.7.5
+subfiles>=1.0
 sisaptools
 siskin
 ghopenid
