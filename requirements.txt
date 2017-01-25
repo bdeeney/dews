@@ -1,3 +1,5 @@
+siskin
+ghopenid
 ghoauth
 jaraco.apt
 jaraco.classes
